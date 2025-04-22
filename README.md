@@ -1,8 +1,8 @@
-**THIS IS PK-XMD*
+**THIS IS MR-TECH-KE*
   
 --- 
 
-<a><img src='https://files.catbox.moe/ajgbm3.jpg'/></a>
+<a><img src=''/></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -40,7 +40,7 @@
 
 ---
 
-### <h2 align="">𐃁PK-XMD DEPLOYMENT OPTIONS𐃁</h2>
+### <h2 align="">𐃁MR TECH KE DEPLOYMENT OPTIONS𐃁</h2>
 
 ---
 
